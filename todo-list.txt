@@ -1,5 +1,5 @@
 1a binary search
-1b insert an elemnt into a sorted array (where it needs to be inserted) insert it using ArrayList.add
+1b insert an element into a sorted array (where it needs to be inserted) insert it using ArrayList.add
 
 2 merge sort
 
@@ -14,8 +14,6 @@ your test should be random numbers
 5 find if there are two numbers in a given array that add up to a given number (can do it linearly)
 
 6 find if two strings of annagrams of each other (same set of letters)
-
-7 ??? dad will interview you
 
 8 open addressing hashmap (make a hashmap manually) (needs to expand) (use built in hash functions) (java util hashmap is horrible) (hppc)
 
