@@ -1,0 +1,43 @@
+1a binary search
+1b insert an elemnt into a sorted array (where it needs to be inserted) insert it using ArrayList.add
+
+2 merge sort
+
+your test should be random numbers
+
+3 quick sort without linear additional memory
+
+4 finding an element in a sorted tree
+4a find if the given tree is the subtree of another (not sorted)
+4b find the distance between two elements in a tree
+
+5 find if there are two numbers in a given array that add up to a given number (can do it linearly)
+
+6 find if two strings of annagrams of each other (same set of letters)
+
+7 ??? dad will interview you
+
+8 open addressing hashmap (make a hashmap manually) (needs to expand) (use built in hash functions) (java util hashmap is horrible) (hppc)
+
+9 implement a heap
+
+10 polish up on java input and output streams
+
+11 find all json files in a given directory
+a put them in a list
+b an iterator like class and it has a nextFile method (basically an iterator that walks a tree
+
+12 design a deck of class to design goFish
+
+when you find how far two nodes are in a tree/graph!!! (it's called breadth first search)
+arcs are the lines between nodes in a graph. Find the path two not just the degrees. You have to assume that the arcs are all the same size or its dijkstras
+hashmap that tells you how to get to the root of the notes
+
+
+SQL
+1. write a query to tell how many people the supervisor has
+2. person has a salary, for each person find how many persons get a bigger salary
+
+make a REST api on a whiteboard (define) for anything (credit card swiping service or online card game.
+
+jackson is one of the major non google JSON parsers
